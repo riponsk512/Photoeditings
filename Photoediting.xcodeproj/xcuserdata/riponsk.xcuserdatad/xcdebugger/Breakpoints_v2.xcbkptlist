@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3A3BA92E-3158-4FCE-9491-780355B6DF02"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "676FD498-05D7-4B37-A6F6-2EF1D11F6A9A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Photoediting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "676FD498-05D7-4B37-A6F6-2EF1D11F6A9A - 6192190b6c9afde3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Photoediting.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Photoediting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riponsk/Desktop/ScenekitGame/Photoediting/Photoediting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "976">
+               </Location>
+               <Location
+                  uuid = "676FD498-05D7-4B37-A6F6-2EF1D11F6A9A - 6192190b6c9afde3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Photoediting.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Photoediting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riponsk/Desktop/ScenekitGame/Photoediting/Photoediting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "744">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
