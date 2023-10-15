@@ -13,15 +13,12 @@ class ViewController: UIViewController {
     @IBOutlet weak var view1: UIView!
     @IBOutlet weak var lbl: UILabel!
     @IBOutlet weak var slider: UISlider!
-    var x:Float = 0.0
     override func viewDidLoad() {
         super.viewDidLoad()
         slider.minimumValue = 0.0
         slider.maximumValue = 1.0
         img.image = UIImage(named: "n1")
-//
-        print(x)
-        // Do any additional setup after loading the view.
+
     }
     func chnageOpacity(val:Float){
         img.layer.opacity = val
@@ -34,7 +31,6 @@ class ViewController: UIViewController {
    
     
     @IBAction func sliderTap(_ sender: UISlider) {
-        x = slider.value
         lbl.text = sender.value.description
         chnageOpacity(val: slider.value)
     }
